@@ -7,7 +7,7 @@
   --titles-text-color: #353430;
   --section-titles-text-color: #353430;
   --decorations-color: #353430;
-  --border-color-hover: rgb(50 49 45 / 0.4)
+  --border-color-hover: rgb(50 49 45 / 0.4);
 }
 
 @media (prefers-color-scheme: light) {
@@ -18,10 +18,10 @@
     --bg-image: url(../images/cover-image-light.png);
     --header-text-color: #ffc2e6;
     --titles-text-color: #353430;
-    --section-titles-text-color: #353430; 
-    --decorations-color: #353430; 
-    --border-color-hover: rgb(50 49 45 / 0.4)
-  }
+    --section-titles-text-color: #353430;
+    --decorations-color: #353430;
+    --border-color-hover: rgb(50 49 45 / 0.4);
+}
   
   .header__decoration-items {
   display: none;
