@@ -168,7 +168,7 @@
 }
 
 .section__list-item_paragraph {
-  color: var(--text-color);  
+  color: var(--text-color);
   font-size: var(--font-size);
   font-weight: 400;
 }
@@ -199,8 +199,10 @@
 }
 
 .ways-to-concentrate__list-title {
+  font-weight: var(--title-font-weight);
   margin-block-end: 10px;
   font-size: var(--font-size);
+  block-size: min-content;
 }
 
 .ways-to-concentrate__list-item_title {
@@ -294,6 +296,10 @@
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 20px;
+  }
+
+  .section__list-item .ways-to-concentrate__list-item {
+    grid-column: 2 / 3;
   }
 
   .ways-to-concentrate__list-title {
