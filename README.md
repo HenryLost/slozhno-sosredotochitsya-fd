@@ -1,1 +1,1 @@
-git@github.com:HenryLost/slozhno-sosredotochitsya-fd.git
+https://github.com/HenryLost/slozhno-sosredotochitsya-fd
