@@ -361,7 +361,7 @@
   .header__paragraph {
     grid-column: 2 / 4;
     justify-self: end;
-    margin-block-end: 20px;    
+    margin-block-end: 20px;
   }
 
   .section__list-item {
