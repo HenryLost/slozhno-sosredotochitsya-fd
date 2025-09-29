@@ -368,6 +368,11 @@
     margin-block-end: 0;
   }
 
+  .reasons,
+  .ways-to-concentrate {
+    grid-template-columns: 1fr 2.06fr;
+  }
+
   .lost__concentration-list h2 {
     max-inline-size: calc(1 / 3 * (100vw - 40px));
   }
